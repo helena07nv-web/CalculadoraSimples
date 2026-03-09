@@ -23,11 +23,6 @@ namespace CalculadoraSimples
             Console.WriteLine($"Subtração: {subtracao}");
             Console.WriteLine($"Multiplicação: {multiplicacao}");
             Console.WriteLine($"Divisão: {divisao}");
-
-
-
-
-
         }
     }
 }
